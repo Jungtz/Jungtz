@@ -28,15 +28,27 @@
 
 <br />
 
+### Tech Stack
+
 <div align="center">
 
-| <sub>STACK</sub> | <sub>FOCUS</sub> | <sub>PRINCIPLE</sub> |
-|:---:|:---:|:---:|
-| `TypeScript` · `Python` · `Go` | `AI` · `Systems` · `Automation` | `KISS` · `Verify First` · `Ship` |
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000" alt="React" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=ffffff" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=ffffff" alt="Vite" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff" alt="Python" />
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=ffffff" alt="OpenAI API" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000000" alt="Firebase" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=ffffff" alt="Supabase" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff" alt="MySQL" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=ffffff" alt="AWS" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=ffffff" alt="Vercel" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=ffffff" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff" alt="GitHub" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=ffffff" alt="Figma" />
 
 </div>
-
-<br />
 
 ---
 
