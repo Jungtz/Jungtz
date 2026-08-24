@@ -40,6 +40,10 @@
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=ffffff" alt="Vite" />
 <br />
 <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=ffffff" alt="OpenAI API" />
+<img src="https://img.shields.io/badge/OpenRouter-2E2E2E?style=flat-square&logo=openrouter&logoColor=ffffff" alt="OpenRouter" />
+<img src="https://img.shields.io/badge/Groq-FF4A16?style=flat-square&logo=groq&logoColor=ffffff" alt="Groq" />
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=ffffff" alt="Gemini" />
+<img src="https://img.shields.io/badge/Claude-D97706?style=flat-square&logo=anthropic&logoColor=ffffff" alt="Claude" />
 <img src="https://img.shields.io/badge/RAG-0E6EFA?style=flat-square&logo=databricks&logoColor=ffffff" alt="RAG" />
 <img src="https://img.shields.io/badge/Agents-7B2CBF?style=flat-square&logo=probot&logoColor=ffffff" alt="Agents" />
 <img src="https://img.shields.io/badge/MCP-2E7D32?style=flat-square&logo=anthropic&logoColor=ffffff" alt="MCP" />
@@ -121,7 +125,7 @@
 
 </div>
 
-<sub>— 立體提交牆。時間的切面，綠格是足跡。</sub>
+<sub>— Topography of time — where every green cell is a footprint fossilized in 3D.</sub>
 
 #### snake · animate
 
@@ -135,19 +139,13 @@
 
 </div>
 
-<sub>— 貪吃蛇吃掉你的 green squares。由 GitHub Actions 每 24h 重繪。</sub>
+<sub>— The serpent that devours the calendar — reborn every 24h by GitHub Actions.</sub>
 
 ---
 
-<div align="center">
-
 ```
 $ uptime
-  Jungtz has been coding since 2017 — still curious, still shipping.
+  Jungtz has been coding since 2009 — still curious, still shipping.
 ```
 
-<br />
-
 <sub>— Built with discipline. No noise, just signal. —</sub>
-
-</div>
