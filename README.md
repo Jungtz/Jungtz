@@ -32,23 +32,30 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=ffffff" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=ffffff" alt="Express" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff" alt="TypeScript" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000" alt="React" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=ffffff" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="Vanilla JS" />
+<img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=ffffff" alt="SCSS" />
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=ffffff" alt="Vite" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff" alt="Python" />
+<br />
 <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=ffffff" alt="OpenAI API" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000000" alt="Firebase" />
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=ffffff" alt="Supabase" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff" alt="MySQL" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=ffffff" alt="AWS" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=ffffff" alt="Vercel" />
+<img src="https://img.shields.io/badge/RAG-0E6EFA?style=flat-square&logo=databricks&logoColor=ffffff" alt="RAG" />
+<img src="https://img.shields.io/badge/Agents-7B2CBF?style=flat-square&logo=probot&logoColor=ffffff" alt="Agents" />
+<img src="https://img.shields.io/badge/MCP-2E7D32?style=flat-square&logo=anthropic&logoColor=ffffff" alt="MCP" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=ffffff" alt="Ollama" />
+<img src="https://img.shields.io/badge/llama--server-444444?style=flat-square&logo=fastapi&logoColor=ffffff" alt="llama-server" />
+<img src="https://img.shields.io/badge/opencode-0A0A0A?style=flat-square&logo=opencode&logoColor=ffffff" alt="opencode" />
+<br />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff" alt="MongoDB" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=ffffff" alt="SQLite" />
+<img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=ffffff" alt="MSSQL" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=ffffff" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff" alt="GitHub" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=ffffff" alt="Figma" />
 
 </div>
+
+<sub>— Node.js 全端 · Vanilla JS 為核心 / SCSS + Vite；資料層 MongoDB · SQLite · MSSQL；AI 以 OpenAI API 為核心，延伸 RAG / Agent / MCP，並以 Ollama / llama-server 在地推理，搭配 opencode 驅動開發。</sub>
 
 ---
 
