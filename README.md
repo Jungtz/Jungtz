@@ -55,11 +55,46 @@
 
 </div>
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**— Frontend**
+
+`Vanilla JS` · `TypeScript` · `SCSS` · `Vite` — Mobile-First, Memoization, SEO / GA
+
+</td>
+<td width="50%" valign="top">
+
+**— Backend / AI**
+
+`Node.js` · `Express` · `OpenAI API` · `RAG` · `Agents` · `MCP` — `Ollama` / `llama-server` 在地推理
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**— Data**
+
+`MongoDB` · `SQLite` · `MSSQL` — 多資料層並行
+
+</td>
+<td valign="top">
+
+**— Tools / Workflow**
+
+`Git` · `GitHub` · `opencode` 驅動開發 — discipline, no noise, just signal
+
+</td>
+</tr>
+</table>
+
 <sub>— Node.js 全端 · Vanilla JS 為核心 / SCSS + Vite；資料層 MongoDB · SQLite · MSSQL；AI 以 OpenAI API 為核心，延伸 RAG / Agent / MCP，並以 Ollama / llama-server 在地推理，搭配 opencode 驅動開發。</sub>
 
 ---
 
-### stats
+### GitHub Stats
 
 <div align="center">
 
@@ -72,9 +107,7 @@
 
 </div>
 
----
-
-### 3d · contrib
+#### 3D · contrib
 
 > 每日自動更新 · `profile-3d-contrib/profile-green-animate.svg`
 
@@ -90,9 +123,7 @@
 
 <sub>— 立體提交牆。時間的切面，綠格是足跡。</sub>
 
----
-
-### snake · animate
+#### snake · animate
 
 <div align="center">
 
