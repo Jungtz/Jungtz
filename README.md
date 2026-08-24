@@ -44,12 +44,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jungtz&show_icons=true&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&text_color=24292f&icon_color=0969da&bg_color=ffffff&title_color=24292f&custom_title=" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jungtz&layout=compact&hide_border=true&text_color=24292f&bg_color=ffffff&title_color=24292f&hide_title=true&langs_count=6" height="150" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Jungtz&show_icons=true&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&text_color=24292f&icon_color=0969da&bg_color=ffffff" height="150" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jungtz&layout=compact&hide_border=true&text_color=24292f&bg_color=ffffff&hide_title=true&langs_count=6" height="150" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=Jungtz&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=0969da&fire=0969da&currStreakLabel=24292f&sideNums=24292f&sideLabels=6e7781&background=ffffff00" alt="streak" />
+<img src="https://streak-stats.demolab.com/?user=Jungtz&theme=transparent&hide_border=true&background=ffffff00&ring=0969da&fire=0969da&currStreakLabel=24292f&sideNums=24292f&sideLabels=6e7781" alt="streak" />
 
 </div>
 
