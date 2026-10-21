@@ -12,7 +12,7 @@
 
 <p>
   <a href="https://github.com/Jungtz"><img src="https://img.shields.io/badge/github-Jungtz-000000?style=flat-square&logo=github&logoColor=white" alt="github" /></a>&ensp;
-  <img src="https://komarev.com/ghpvc/?username=Jungtz&label=views&color=0e75b6&style=flat-square" alt="views" />&ensp;
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Jungtz.Jungtz&left_text=views&left_color=%23555555&right_color=%230e75b6" alt="views" />&ensp;
   <img src="https://img.shields.io/github/followers/Jungtz?style=flat-square&label=followers&color=000000" alt="followers" />
 </p>
 
